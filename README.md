@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ahn_Hyojin&fontSize=70&fontColor=ffffff)
   ## :fire:Narlo23
   <div align=center>
-    <a href="mailto:aks152312@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aks152312@gmail.com"></a>
+    <a href="mailto:aks152312@gmail.com">
+    <img 
+        src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aks152312@gmail.com"/>
+</a>
   <a href="https://narlo23.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F05138?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
   </div>
   <br><br>
