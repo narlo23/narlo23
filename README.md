@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ahn_Hyojin&fontSize=70&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=300&section=header&text=Ahn_Hyojin&fontSize=70&fontColor=ffffff)
   ## :fire:Narlo23
   <div align=center>
     <a href="mailto:aks152312@gmail.com">
